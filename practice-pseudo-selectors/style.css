@@ -1,0 +1,19 @@
+div {
+    margin-left: 50px;
+    background: white;
+    width: 300px;
+    padding: 30px;
+    border: 1px solid black  
+}
+
+.top{
+    border-top-style: none;
+}
+
+.bottom{
+    border-bottom-style: none;
+}
+
+div:hover{
+    background-color: tomato;
+}
