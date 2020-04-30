@@ -1,0 +1,22 @@
+div{
+    width: 300px;
+    font-weight: bold;
+}
+
+.b326 {
+    border: 2px solid green;
+    background: white;
+    color: black;
+}
+
+#b325  {
+    border: 2px solid green;
+    color: black;
+    background: white;
+}
+
+p, div {
+    background: yellow;
+    width: 300px;
+    color: blue;
+}
